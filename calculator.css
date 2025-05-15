@@ -1,0 +1,28 @@
+.bmiform{
+    flex-direction: column;
+    display: flex;
+   /* width: 30%;*/
+   /* height: 60%;*/
+    gap: 20px;
+    padding: 10px;
+
+}
+.BMI{
+    /*border:2px solidblack;*/
+    width: 20%;
+    justify-content: center;
+    margin: 16px auto;
+    background-color:whitesmoke;
+    padding-left: 10px;
+    box-shadow: 0 0 10px rgba(209, 5, 249, 0.8);
+}
+button{
+    background-color: rgb(106, 106, 242);
+    color: rgb(40, 37, 37);
+    font-size: 20px;
+    margin-top: 15px;
+}
+button:hover
+{
+    cursor:pointer;
+}
